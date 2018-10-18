@@ -8,9 +8,9 @@ class Nav extends Component {
                     <li className="logo">Design<span>Scout</span></li>
                 </ul>
                 <ul>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Mission</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="/">About</a></li>
+                    <li><a href="/">Mission</a></li>
+                    <li><a href="/">Contact</a></li>
                 </ul>
             </nav>
         );

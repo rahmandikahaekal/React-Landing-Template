@@ -8,10 +8,10 @@ class Header extends Component {
             <header>
                 <Nav />
                 <div className="head">
-                    <h1>We Creater,<br/> We Developer</h1>
+                    <h1>We are<br />Team Based on UI Web</h1>
                     <div>
                         <p>Deserunt incididunt ipsum eu cupidatat labore culpa voluptate elit voluptate velit elit dolor laborum amet. Qui sit magna incididunt ex sunt sit deserunt est est ex veniam proident. Et duis duis deserunt esse nulla amet nostrud adipisicing enim cupidatat. </p>
-                        <div><a className="contact" href="">Contact Me</a></div>
+                        <div><a className="contact" href="/">Contact Me</a></div>
                     </div>
                 </div>
             </header>
