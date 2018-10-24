@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Form from "./form";
+import Form from './form';
 
 class Main extends Component {
   render() {
